@@ -8,7 +8,7 @@
 
 ## 演示视频
 
-<video src="演示视频.mp4"></video>
+<video src="README.assets/演示视频.mp4"></video>
 
 ## 设计方案
 
